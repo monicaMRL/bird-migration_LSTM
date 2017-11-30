@@ -5,5 +5,8 @@ Abstract: White storks are migratory birds that have a diverse migratory pattern
 
 # Results
 
+RED: Actual Path
+GREEN: Predicted Path
+
 ![screenshot from 2017-11-30 02 10 09](https://user-images.githubusercontent.com/28791312/33418721-3adad39c-d575-11e7-84d4-e0f764948be2.png)
 
